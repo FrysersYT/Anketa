@@ -1,10 +1,66 @@
-# Anketa
-Анкета где можно заполнить какие либо данные,
-Как выглядит файл <img width="418" height="253" alt="Анкета 1" src="https://github.com/user-attachments/assets/1f865055-8341-4f14-b388-0c6807a7f722" />
-Интерфейс <img width="756" height="934" alt="Анкета интерфейс 2" src="https://github.com/user-attachments/assets/439be7de-d429-47ca-ab1d-81b4a30f18bd" />
-Пример как нужно <img width="647" height="936" alt="Пример как нужно" src="https://github.com/user-attachments/assets/f9d2c919-b065-4841-91b8-ef2c1222eab7" />
-При нажатии "Отправить" появится вот так <img width="444" height="456" alt="изображение" src="https://github.com/user-attachments/assets/761ed32b-c671-40c7-8e85-9d005adab539" />
+# 📋 Анкета
 
+<div align="center">
+  
+![Версия](https://img.shields.io/badge/Версия-1.0.0-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Лицензия](https://img.shields.io/badge/Лицензия-MIT-orange)
+![Платформа](https://img.shields.io/badge/Платформа-Windows-lightgrey)
 
+**Простое и удобное приложение для сбора данных пользователей**
 
+</div>
 
+---
+
+## 📸 Скриншоты
+
+### Главный экран
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/439be7de-d429-47ca-ab1d-81b4a30f18bd" width="450" alt="Интерфейс анкеты">
+</div>
+
+### Заполненная форма
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f9d2c919-b065-4841-91b8-ef2c1222eab7" width="450" alt="Пример заполнения">
+</div>
+
+### Успешная отправка
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/761ed32b-c671-40c7-8e85-9d005adab539" width="450" alt="Успешная отправка">
+</div>
+
+### Основной интерфейс
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1f865055-8341-4f14-b388-0c6807a7f722" width="300" alt="Основной интерфейс">
+</div>
+
+---
+
+## ✨ Особенности
+
+- 🎨 **Тёмная тема** - современный и стильный дизайн
+- 🇸🇪 **Отображение флага** - визуальное отображение страны сервера
+- 📶 **Пинг в реальном времени** - мониторинг задержки сервера
+- 🔊 **Звуковые уведомления** - обратная связь при действиях
+- 📱 **Фиксированный размер** - адаптирован для удобного использования
+- ✅ **Валидация полей** - проверка обязательных полей
+- 🎲 **Рандомные данные** - автоматическое заполнение города и страны
+- 🖥️ **Автономная работа** - не требует установки Python (в собранном виде)
+
+---
+
+## 📦 Установка и запуск
+
+### Способ 1: Запуск из исходного кода
+
+```bash
+# Клонирование репозитория
+git clone https://github.com/ваш-username/Анкета.git
+cd Анкета
+
+# Установка зависимостей
+pip install -r requirements.txt
+
+# Запуск
+python anketa.py
