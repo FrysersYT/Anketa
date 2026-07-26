@@ -20,7 +20,7 @@
 
 ### 📦 Готовый EXE (для пользователей)
 
-[![Скачать Анкета.exe](https://img.shields.io/badge/📥%20Скачать-Анкета.exe-00c853?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FrysersYT/Anketa/releases/latest/download/Анкета.exe)
+[![Скачать Анкета.exe](https://img.shields.io/badge/📥%20Скачать-Анкета.exe-00c853?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FrysersYT/Anketa/releases/latest/download/Anketa.exe)
 
 ### 📁 Исходный код
 
