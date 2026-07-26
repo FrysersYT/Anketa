@@ -1,13 +1,32 @@
 # 📋 Анкета
 
 <div align="center">
-  
+
 ![Версия](https://img.shields.io/badge/Версия-1.0.0-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Лицензия](https://img.shields.io/badge/Лицензия-MIT-orange)
 ![Платформа](https://img.shields.io/badge/Платформа-Windows-lightgrey)
+![Размер](https://img.shields.io/badge/Размер-~15%20MB-blueviolet)
 
 **Простое и удобное приложение для сбора данных пользователей**
+
+</div>
+
+---
+
+## 🚀 Скачать
+
+<div align="center">
+
+### 📦 Готовый EXE (для пользователей)
+
+[![Скачать Анкета.exe](https://img.shields.io/badge/📥%20Скачать-Анкета.exe-00c853?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/FrysersYT/Anketa/releases/latest/download/Анкета.exe)
+
+### 📁 Исходный код
+
+[![Скачать ZIP](https://img.shields.io/badge/📦%20Скачать-Исходный%20код-448aff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrysersYT/Anketa/archive/refs/heads/main.zip)
+
+[![Открыть в GitHub](https://img.shields.io/badge/🌐%20Открыть-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrysersYT/Anketa)
 
 </div>
 
@@ -52,12 +71,18 @@
 
 ## 📦 Установка и запуск
 
-### Способ 1: Запуск из исходного кода
+### Способ 1: Готовый EXE (для обычных пользователей) ⭐
+
+1. Скачайте файл **[Анкета.exe](https://github.com/FrysersYT/Anketa/releases/latest/download/Анкета.exe)**
+2. Запустите двойным кликом
+3. Ничего устанавливать не нужно!
+
+### Способ 2: Запуск из исходного кода (для разработчиков)
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/ваш-username/Анкета.git
-cd Анкета
+git clone https://github.com/FrysersYT/Anketa.git
+cd Anketa
 
 # Установка зависимостей
 pip install -r requirements.txt
