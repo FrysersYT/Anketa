@@ -69,23 +69,5 @@
 
 ---
 
-## 📦 Установка и запуск
-
-### Способ 1: Готовый EXE (для обычных пользователей) ⭐
-
-1. Скачайте файл **[Анкета.exe](https://github.com/FrysersYT/Anketa/releases/latest/download/Анкета.exe)**
-2. Запустите двойным кликом
-3. Ничего устанавливать не нужно!
-
-### Способ 2: Запуск из исходного кода (для разработчиков)
-
-```bash
-# Клонирование репозитория
-git clone https://github.com/FrysersYT/Anketa.git
-cd Anketa
-
-# Установка зависимостей
-pip install -r requirements.txt
-
 # Запуск
 python anketa.py
