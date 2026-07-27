@@ -103,7 +103,8 @@
 
 #### 🔓 Не заблокирован (IP виден)
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f6c60374-9703-4e85-9612-584db5399d1c" width="450" alt="Не заблокирован">
+  <img width="561" height="743" alt="Как выглядит не заблокированным 2" src="https://github.com/user-attachments/assets/0d7a5bfa-b0ba-4417-91a4-6b480839e990" />
+
 </div>
 
 #### 🔒 Заблокирован (красное уведомление)
